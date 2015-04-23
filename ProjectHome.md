@@ -1,0 +1,1 @@
+The application will display the time left for the next prayer, displays the times of all prayers for the day, sets an alarm for the prayers.
